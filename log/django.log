@@ -1,0 +1,18 @@
+INFO 2023-10-11 12:21:55,559 autoreload 45804 8519310144 Watching for file changes with StatReloader
+INFO 2023-10-11 12:28:15,118 autoreload 45991 8519310144 Watching for file changes with StatReloader
+INFO 2023-10-11 12:35:38,815 autoreload 45991 8519310144 /Users/tatianasoboleva/PycharmProjects/djangoProject2/djangoProject2/settings.py changed, reloading.
+INFO 2023-10-11 12:35:39,095 autoreload 46079 8519310144 Watching for file changes with StatReloader
+WARNING 2023-10-11 12:35:41,319 log 46079 6135377920 Not Found: /
+WARNING 2023-10-11 12:35:41,319 basehttp 46079 6135377920 "GET / HTTP/1.1" 404 2287
+WARNING 2023-10-11 12:35:41,440 log 46079 6152204288 Not Found: /apple-touch-icon-precomposed.png
+WARNING 2023-10-11 12:35:41,442 basehttp 46079 6152204288 "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 2401
+WARNING 2023-10-11 12:35:41,458 log 46079 6152204288 Not Found: /apple-touch-icon.png
+WARNING 2023-10-11 12:35:41,458 basehttp 46079 6152204288 "GET /apple-touch-icon.png HTTP/1.1" 404 2365
+WARNING 2023-10-11 12:35:41,463 log 46079 6135377920 Not Found: /favicon.ico
+WARNING 2023-10-11 12:35:41,464 basehttp 46079 6135377920 "GET /favicon.ico HTTP/1.1" 404 2338
+WARNING 2023-10-11 12:36:07,458 log 46079 6135377920 Not Found: /homework/
+WARNING 2023-10-11 12:36:07,459 basehttp 46079 6135377920 "GET /homework/ HTTP/1.1" 404 2332
+INFO 2023-10-11 12:36:19,255 basehttp 46079 6135377920 "GET /homework4 HTTP/1.1" 301 0
+INFO 2023-10-11 12:36:19,276 basehttp 46079 6135377920 "GET /homework4/ HTTP/1.1" 200 612
+INFO 2023-10-11 12:36:23,201 basehttp 46079 6135377920 "GET /homework4/product_update_id HTTP/1.1" 301 0
+INFO 2023-10-11 12:36:23,226 basehttp 46079 6135377920 "GET /homework4/product_update_id/ HTTP/1.1" 200 515
